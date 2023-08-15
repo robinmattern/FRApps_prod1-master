@@ -1,0 +1,22 @@
+d3.3.20. Background and Purposes](client2/c20_background-and-purposes/README.md)
+
+d3.3_my JavaScript-custom-app			](client2/c21_my-javascript-custom-app/index.html)
+d3.3.21_javaScript-dom-and-jquery-app	](client2/c21_my-javascript-custom-app/index.html)
+d3.3.22_javascript-faqs-app				](client2/c22_javascript-faqs-app/index.html)
+d3.3.23_javascript-cards-app			](client2/c23_javascript-cards-app/index.html)
+d3.3.24_javascript-json.js-data-app		](client2/c24_javascript-json-local-data-app/index.html)
+d3.3.25_javascript-json-server-api		](client2/c25_javascript-json-server-data-app/index.html)
+d3.3.26_javascript-mysql-server-api		](client2/c26_javascript-mysql-data-app/index.html)
+
+
+git checkout -b d3.3_my javascript-custom-app			
+git checkout -b d3.3.21_javascript-dom-and-jquery-app	
+git checkout -b d3.3.22_javascript-faqs-app
+git checkout -b d3.3.23_javascript-cards-app
+git checkout -b d3.3.24_javascript-json.js-data-app
+git checkout -b d3.3.25_javascript-json-server-api
+git checkout -b d3.3.26_javascript-mysql-server-api
+
+clone FRApps_test2-robin 
+
+git push origin --all
